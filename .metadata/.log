@@ -86,3 +86,39 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:08:35.395
+!MESSAGE Classpath changed for project: E_commerce_project
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:08:35.397
+!MESSAGE Boot project ADDED: E_commerce_project
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:08:35.401
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:08:35.508
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-03-11 12:08:35.621
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\SaurabhKumarUike\OneDrive - Kognivera\Desktop\sts\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin\javaw.exe
+-cp
+C:\Users\SaurabhKumarUike\OneDrive - Kognivera\Desktop\sts\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\SaurabhKumarUike\OneDrive - Kognivera\Desktop\sts\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\SaurabhKumarUike\OneDrive - Kognivera\Desktop\sts\plugins\org.springframework.tooling.boot.ls_1.52.0.202401312010\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/SaurabhKumarUike/OneDrive - Kognivera/Documents/GitHub/group-project/group_project/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1710139115619
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:08:35.628
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-03-11 12:08:35.660
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 15484
