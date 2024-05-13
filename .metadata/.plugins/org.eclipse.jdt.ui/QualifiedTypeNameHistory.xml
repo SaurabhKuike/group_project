@@ -1,2 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.app.services.ProductService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.ProductRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.CategoryRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.CartRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.OrderRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.PaymentRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.OrderItemRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.CartItemRepo"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.authentication.UserServiceBeanDefinitionParser"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.UserRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.RoleRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.repository.AddressRepo"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Role"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.config.AppConstants"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.config.UserInfoConfig"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.exceptions.ResourceNotFoundException"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Payment"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.CartItem"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.OrderItem"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.exceptions.APIException"/>
+    <fullyQualifiedTypeName name="com.app.services.CategoryService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.AddressService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Address"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.exceptions.UserNotFoundException"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.CartService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Cart"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.CategoryService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Category"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.OrderService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Order"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.ProductService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.Product"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.UserService"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.entities.User"/>
+    <fullyQualifiedTypeName name="com.spring.ecom.service.UserDetailsServiceImpl"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.AuthenticationEntryPoint"/>
+    <fullyQualifiedTypeName name="com.app.config.CustomAuthenticationEntryPoint"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+</qualifiedTypeNameHistroy>
